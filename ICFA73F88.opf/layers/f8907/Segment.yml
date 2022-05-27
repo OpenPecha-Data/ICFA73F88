@@ -1,0 +1,104 @@
+id: 205caf8e7aee46aa988d37a4fb307d72
+annotation_type: Segment
+revision: '00001'
+annotations:
+  5ba4dc0a202d4e13a9efe7618bb26c79:
+    span:
+      start: 0
+      end: 116
+    metadata: {}
+  70ad72eeb01c497a8941ccea15fa71d1:
+    span:
+      start: 119
+      end: 176
+    metadata: {}
+  d94b1b5421914218a8d2011295ddf0cd:
+    span:
+      start: 179
+      end: 224
+    metadata: {}
+  4521c62b062140ecbde3053d6f54cf62:
+    span:
+      start: 227
+      end: 327
+    metadata: {}
+  503ed8f136df4687b667b235bc5844c0:
+    span:
+      start: 330
+      end: 336
+    metadata: {}
+  cef21d605a7a4618b6dbd5e1008207dd:
+    span:
+      start: 339
+      end: 347
+    metadata: {}
+  751d9ae44009461b8218eb695336f5f0:
+    span:
+      start: 350
+      end: 389
+    metadata: {}
+  8c4793738d9f43cbadc200813c721ac2:
+    span:
+      start: 392
+      end: 444
+    metadata: {}
+  a7ffac086e764228910d81b9c36c4d29:
+    span:
+      start: 447
+      end: 490
+    metadata: {}
+  3dbcf5dcb02c4a8492d7e25f7d70a1d6:
+    span:
+      start: 493
+      end: 659
+    metadata: {}
+  49ecdb799cd24a33808fb883d11924ea:
+    span:
+      start: 662
+      end: 704
+    metadata: {}
+  0ea43a9534ff487590849a6c53546db8:
+    span:
+      start: 707
+      end: 818
+    metadata: {}
+  560ea7c1f33a47499dc650e33214bbed:
+    span:
+      start: 821
+      end: 914
+    metadata: {}
+  8b9b854a5c844d548d94e5500867e929:
+    span:
+      start: 917
+      end: 1058
+    metadata: {}
+  aec5a7dc2d1d44a19ea0a67b61894f54:
+    span:
+      start: 1061
+      end: 1149
+    metadata: {}
+  05f35071f99e4a7887e70cd93ad6e13d:
+    span:
+      start: 1152
+      end: 1221
+    metadata: {}
+  b23dddf9fb9143df8a6df05025f810a1:
+    span:
+      start: 1224
+      end: 1314
+    metadata: {}
+  772d6ee2dfa34c18a4d7d9d1758d9106:
+    span:
+      start: 1317
+      end: 1468
+    metadata: {}
+  e1d3f8d9e1124e41909050e7c3d4998a:
+    span:
+      start: 1471
+      end: 1519
+    metadata: {}
+  dfee91e7b103488d9276ccbb20b25b88:
+    span:
+      start: 1522
+      end: 1595
+    metadata: {}
